@@ -22,4 +22,4 @@ step 9: create connection.js db folder
 
 step 10: install npm i dotenv
 
-step 11: create models catergory, product, tag, producetag, & index.js
+step 11: create models catergory.js, product.js, tag.js, producetag.js, & index.js files
