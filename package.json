@@ -1,7 +1,27 @@
 {
   "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
     "inquirer": "^8.1.1",
     "mysql": "^2.18.1",
     "sequelize": "^6.6.4"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "e-commerce",
+  "description": "Create database by CRUD (Create, Read, Update, Destory)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NihalAbdalla/E-Commerce.git"
+  },
+  "author": "Nihal Abdalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NihalAbdalla/E-Commerce/issues"
+  },
+  "homepage": "https://github.com/NihalAbdalla/E-Commerce#readme"
 }

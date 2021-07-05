@@ -20,4 +20,6 @@ step 8: create department table, role table, & employee table
 
 step 9: create connection.js db folder
 
-step 10:
+step 10: install npm i dotenv
+
+step 11:
